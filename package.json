@@ -1,0 +1,40 @@
+{
+  "name": "lab-20",
+  "version": "1.0.0",
+  "description": "Lab 20 Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Balfour",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "eslint": "^6.3.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-strip-debug": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "jshint": "^2.10.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "hamburgers": "^1.1.3",
+    "jquery": "^3.4.1",
+    "jquery-match-height": "^0.7.2",
+    "jquery-scrollstop": "^1.2.0",
+    "picturefill": "^3.0.3",
+    "popper.js": "^1.15.0",
+    "smooth-scroll": "^16.1.0",
+    "swiper": "^4.5.0",
+    "underscore": "^1.9.1",
+    "underscore.deepclone": "^0.1.3",
+    "what-input": "^5.2.3"
+  }
+}
